@@ -4,3 +4,11 @@ journeymap
 local
 logs
 saves
+dropt.log
+knownkeys.txt
+minecraftinstance.json
+manifest.json
+options.txt
+patchouli_data.json
+usercache.json
+usernamecache.json
