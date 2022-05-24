@@ -1,0 +1,3 @@
+#Tue May 24 16:43:34 EEST 2022
+shadowMapResolution=3072
+sunPathRotation=-0.15f
